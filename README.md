@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nturneruk
 - 👀 I’m interested in HomeLabs, Data, IT, Servers etc.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JavaScript
 
 
 <!---
