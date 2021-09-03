@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nturneruk
 - 👀 I’m interested in HomeLabs, Data, IT, Servers etc.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
+- 🕐 My current project is: Python Magic 8 Ball
 
 
 <!---
